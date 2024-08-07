@@ -7,6 +7,15 @@
 # 
 # Original code was used with permission and modified for this project.
 
+# Wright-Fisher Model Simulation
+
+## Modifications
+
+#1. Incorporated the `dplyr` library.
+#2. Added command line argument handling.
+#3. Adjusted simulation parameters.
+#4. Added functionality to write results to a text file.
+
 
 library("dplyr")
 
