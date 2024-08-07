@@ -1,3 +1,13 @@
+# The following code is adapted from the "Simulating the Wright-Fisher Model" section of 
+# the "Introduction to the Wright-Fisher Model" by Joe Marcus. 
+# Published on March 29, 2016. Available at:
+# https://stephens999.github.io/fiveMinuteStats/wright_fisher_model.html
+# Licensed under the Creative Commons Attribution 4.0 International License:
+# https://creativecommons.org/licenses/by/4.0/
+# 
+# Original code was used with permission and modified for this project.
+
+
 library("dplyr")
 
 args <- commandArgs(trailingOnly = TRUE)
