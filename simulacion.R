@@ -24,7 +24,7 @@ args <- commandArgs(trailingOnly = TRUE)
 # parse your command line arguments
 x <- as.numeric(args[1]) # args[1] contains argument 1
 y <- as.numeric(args[2]) # args[2] contains argument 2
-zz <- as.numeric(args[3]) # args[3] contains argument 3, numero de individuos
+zz <- as.numeric(args[3]) # args[3] contains argument 3, # individuals 
 zpath <- args[4] # args[4] contains argument 4, output path
 
 # data.frame toli be filled
