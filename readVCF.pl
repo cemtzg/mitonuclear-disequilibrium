@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------------------
 # Author: Christian E. Martinez-Guerrero
-# If you find this program useful, please cite the following article: ...
+# If you find this program useful, please cite us: ...
 #
 #
 #This program is designed to calculate allele frequencies using a VCF file with information
